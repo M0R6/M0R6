@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/M0R6?tab=repositories)
 
-- 📫 How to reach me **nrfntr@hotmail.com**
+- 📫 reach me out [**here**](https://linktr.ee/nrfntr)
 
 - ⚡ Fun fact, **I'm a male vocal & currently making/writing songs! <a href="morgann.me/roomrecords">check this out!</a>**
 
