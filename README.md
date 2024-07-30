@@ -11,7 +11,7 @@
 
 - 📫 reach me out [**here**](https://linktr.ee/nrfntr)
 
-- ⚡ Fun fact, **I'm a male vocal & currently making/writing songs! <a href="morgann.me/roomrecords">check this out!</a>**
+- ⚡ Fun fact, **I'm a male vocal & currently making/writing songs! <a href="https://morgann.me/roomrecords">check this out!</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
