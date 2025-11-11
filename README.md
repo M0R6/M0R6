@@ -13,8 +13,6 @@
 
 - 📫 reach me out <a href="https://linktr.ee/nrfntr" target="_blank">**here**</a>
 
-- ⚡ Fun fact, **I produce songs! <a href="https://morgann.me/roomrecords" target="_blank">check this out!</a>**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nrfntr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nrfntr" height="30" width="40" /></a>
