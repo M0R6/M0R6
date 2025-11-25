@@ -31,15 +31,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 384 hrs 50 mins
+Total Time: 388 hrs 2 mins
 
-Vue.js        279 hrs 56 mins ██████████████████░░░░░░░   72.40 %
-TypeScript    47 hrs 55 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
-C++           18 hrs 28 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-Bash          8 hrs 34 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-Prisma        7 hrs 50 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-JavaScript    7 hrs 15 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-SQL           5 hrs 16 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Vue.js        279 hrs 56 mins ██████████████████░░░░░░░   71.81 %
+TypeScript    47 hrs 55 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.29 %
+C++           21 hrs 32 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+Bash          8 hrs 34 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+Prisma        7 hrs 50 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+JavaScript    7 hrs 15 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+SQL           5 hrs 16 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
