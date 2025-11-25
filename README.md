@@ -27,7 +27,7 @@
 
 <br>
 
-<h3 align="left">Morgan's GitHub Stats:</h3>
+<h3 align="left">Morgan's Codes & GitHub Stats:</h3>
 <!--START_SECTION:waka-->
 
 ```txt
