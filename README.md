@@ -29,6 +29,12 @@
 
 <h3 align="left">Morgan's GitHub Stats:</h3>
 <!--START_SECTION:waka-->
+
+```txt
+C++   1 hr 23 mins    █████████████████████████   99.97 %
+SQL   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+```
+
 <!--END_SECTION:waka-->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m0r6&show_icons=true&locale=en&layout=compact" alt="m0r6" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m0r6&" alt="m0r6" /></p>
