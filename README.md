@@ -1,5 +1,5 @@
-<h1 align="center">Hey y'all 👋, Me Morg</h1>
-<h3 align="center">I do everything but not that good in anything I do... basically a mediocre :)</h3>
+<h1 align="center">Hey y'all 👋, me Morg</h1>
+<h5 align="center">I do everything but not that good in anything I do... basically a mediocre :)</h5>
 
 <br>
 
