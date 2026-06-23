@@ -31,10 +31,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 456 hrs 5 mins
+Total Time: 456 hrs 22 mins
 
-Vue.js        282 hrs 11 mins       ███████████████▒░░░░░░░░░   61.49 %
-C++           77 hrs 18 mins        ████▒░░░░░░░░░░░░░░░░░░░░   16.85 %
+Vue.js        282 hrs 11 mins       ███████████████▒░░░░░░░░░   61.45 %
+C++           77 hrs 35 mins        ████▒░░░░░░░░░░░░░░░░░░░░   16.90 %
 TypeScript    48 hrs 11 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 %
 Bash          8 hrs 35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
 JavaScript    8 hrs 8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
