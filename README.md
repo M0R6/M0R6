@@ -31,15 +31,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 456 hrs 43 mins
+Total Time: 458 hrs 6 mins
 
-Vue.js        282 hrs 11 mins       ███████████████▒░░░░░░░░░   61.41 %
-C++           77 hrs 55 mins        ████▒░░░░░░░░░░░░░░░░░░░░   16.96 %
-TypeScript    48 hrs 11 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
-Bash          8 hrs 35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+Vue.js        282 hrs 11 mins       ███████████████▒░░░░░░░░░   61.22 %
+C++           77 hrs 55 mins        ████▒░░░░░░░░░░░░░░░░░░░░   16.91 %
+TypeScript    48 hrs 11 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
+Bash          8 hrs 35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 JavaScript    8 hrs 8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
 Prisma        8 hrs 3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-HTML          5 hrs 50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+HTML          7 hrs 13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 ```
 
 <!--END_SECTION:waka-->
